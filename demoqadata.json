@@ -1,0 +1,27 @@
+{
+  "baseUrl" : "https://demoqa.com/automation-practice-form",
+  "data" : [
+    {
+      "firstname" : "sravya",
+      "lastname"  : "Vattikuti",
+      "emailId"   : "abc@gmail.com",
+      "phonenumber": "0987654321",
+      "gender" : "Female",
+      "hobbies": ["Sports","Reading","Music"],
+      "state"  : "NCR",
+      "city" : "Delhi",
+      "filelocation": "C:\\Users\\sravatti\\Downloads\\sravya_resume.pdf"
+    },
+    {
+      "firstname" : "Manoj",
+      "lastname"  : "yeluri",
+      "emailId"  : "mnb@gmail.com",
+      "phonenumber": "9588484883",
+      "gender"     : "Male",
+      "hobbies": ["Reading","Music"],
+      "state"  : "Haryana",
+      "city"   : "Karnal",
+      "filelocation": "C:\\Users\\sravatti\\Downloads\\sravya_resume.pdf"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "baseUrl"   : "https://www.saucedemo.com/",
+  "data" : [
+    {
+      "username" : "standard_user",
+      "password" : "secret_sauce",
+      "firstname" : "Sravya",
+      "lastname" : "Vattikuti",
+      "postalcode": "534211"
+    },
+    {
+      "username" : "locked_out_user",
+      "password" : "secret_sauce",
+      "firstname" : "Manoj",
+      "lastname" : "Yeluri",
+      "postalcode": "53006"
+    }
+  ]
+}
