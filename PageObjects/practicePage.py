@@ -64,5 +64,4 @@ class PracticePage():
         confirmation_message = self.driver.find_element(*self.message)
         print(confirmation_message.text)
         assert "Thanks" in confirmation_message.text
-        # self.driver.save_screenshot(f"file{index + 1}.png")
-        self.driver.save_screenshot(f"demoqascreenshot{index + 1}.png")
+        self.driver.save_screenshot(f"screenshots/demoqascreenshot{index + 1}.png")
